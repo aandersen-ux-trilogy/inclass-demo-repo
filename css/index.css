@@ -11,15 +11,7 @@
   "disabled"
   ;
   height: 500px;
-}
-.hoverMe {
-  grid-area: hover;
-  background-color: red;
-  color: white;
-  width: 150px;
-  text-align: center;
-  transition: 0.3s;
-}
+
 /* active state */
 .hoverMe:hover {
   background-color:blue;
